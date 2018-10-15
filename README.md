@@ -9,6 +9,6 @@ This is a repository to list free books in Machine Learning fields. Feel free to
 + [Mining Massive Datasets - 511pages](http://www.mmds.org/#ver21)
 + [A Programmer's Guide to Data Mining - 395pages](http://guidetodatamining.com/)
 + [Probabilistic Programming & Bayesian Methods for Hackers - 217pages](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
-+ [Modeing with Data - 213](https://modelingwithdata.org/about_the_book.html)
++ [Modeing with Data - 213pages](https://modelingwithdata.org/about_the_book.html)
 + [An Introduction to Data Science - 196pages](https://docs.google.com/file/d/0B6iefdnF22XQeVZDSkxjZ0Z5VUE/edit?pli=1)
 

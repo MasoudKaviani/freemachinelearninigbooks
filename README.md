@@ -1,7 +1,8 @@
-# free machinelearninig books
-Free Machine Learning, Data Mining, Deep Learning and Big Data Books
+# Free Machine Learninig and Data Science Books
+Free Machine Learning, Data Mining, Deep Learning, Artificial Intelligence and Big Data Books
 
-This is a repository to list free books in Machine Learning fields. Feel free to add extra books by editing ReadMe file. And it's sorted by page number DESC!
+This is a repository to list free books in Machine Learning, Data Mining, Deep Learning, Artificial Intelligence fields. Feel free to add extra books by editing ReadMe file and make a PR
+The books have sorted by page number in DESC!
 
 ## Free EBooks
 + [The Elements of Statistical Learning - 764pages](https://web.stanford.edu/~hastie/ElemStatLearn//printings/ESLII_print12.pdf)

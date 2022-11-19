@@ -6,6 +6,7 @@ The books have sorted by page number in DESC!
 
 ## Free EBooks
 + [The Elements of Statistical Learning - 764pages](https://web.stanford.edu/~hastie/ElemStatLearn//printings/ESLII_print12.pdf)
++ [Pattern Recognition and Machine Learning - 758pages](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 + [Data Mining and Analysis - 604pages](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=downloadman&upname=book-20160121.pdf)
 + [Python Data Science Handbook - 546pages](https://jakevdp.github.io/PythonDataScienceHandbook/)
 + [Planning Algorithms - 512pages](http://lavalle.pl/planning/)

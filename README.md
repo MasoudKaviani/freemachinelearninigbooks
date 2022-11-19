@@ -6,14 +6,15 @@ The books have sorted by page number in DESC!
 
 ## Free EBooks
 + [The Elements of Statistical Learning - 764pages](https://web.stanford.edu/~hastie/ElemStatLearn//printings/ESLII_print12.pdf)
-+ [Pattern Recognition and Machine Learning - 758pages](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
++ [Pattern Recognition and Machine Learning - 569pages](https://nlp.stanford.edu/IR-book/pdf/irbookprint.pdf)
 + [Data Mining and Analysis - 604pages](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=downloadman&upname=book-20160121.pdf)
++ [An Introduction to Information Retrieval - 546pages](https://jakevdp.github.io/PythonDataScienceHandbook/)
 + [Python Data Science Handbook - 546pages](https://jakevdp.github.io/PythonDataScienceHandbook/)
 + [Planning Algorithms - 512pages](http://lavalle.pl/planning/)
 + [Mining Massive Datasets - 511pages](http://www.mmds.org/#ver21)
 + [Foundations of Machine Learning - 505pages](https://cs.nyu.edu/~mohri/mlbook/)
 + [A Programmer's Guide to Data Mining - 395pages](http://guidetodatamining.com/)
-+ [INTRODUCTION TO MACHINE LEARNING - 234pages](https://alex.smola.org/drafts/)
++ [Introduction to Machine Learning - 234pages](https://alex.smola.org/drafts/)
 + [Gaussian Processes for Machine Learning - 266pages](https://gaussianprocess.org/gpml/chapters/)
 + [Probabilistic Programming & Bayesian Methods for Hackers - 217pages](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 + [Modeing with Data - 213pages](https://modelingwithdata.org/about_the_book.html)

@@ -12,4 +12,5 @@ The books have sorted by page number in DESC!
 + [Probabilistic Programming & Bayesian Methods for Hackers - 217pages](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 + [Modeing with Data - 213pages](https://modelingwithdata.org/about_the_book.html)
 + [An Introduction to Data Science - 196pages](https://docs.google.com/file/d/0B6iefdnF22XQeVZDSkxjZ0Z5VUE/edit?pli=1)
++ [The Art of Data Science - 163pages](https://leanpub.com/artofdatascience)
 

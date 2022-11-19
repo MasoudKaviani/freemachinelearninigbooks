@@ -16,6 +16,7 @@ The books have sorted by page number in DESC!
 + [An Introduction to Data Science - 196pages](https://docs.google.com/file/d/0B6iefdnF22XQeVZDSkxjZ0Z5VUE/edit?pli=1)
 + [The Art of Data Science - 163pages](https://leanpub.com/artofdatascience)
 + [The Field Guid to Data Science - 110pages](https://www.researchgate.net/publication/258698880_The_Field_Guide_to_Data_Science)
++ [The Hundred-Page Machine Learning Book - 100pages](http://themlbook.com/wiki/doku.php)
 + [Data Science for Business - 28pages](https://www.researchgate.net/publication/256438799_Data_Science_for_Business)
 + 
 

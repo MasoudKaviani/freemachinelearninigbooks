@@ -10,6 +10,7 @@ The books have sorted by page number in DESC!
 + [Python Data Science Handbook - 546pages](https://jakevdp.github.io/PythonDataScienceHandbook/)
 + [Planning Algorithms - 512pages](http://lavalle.pl/planning/)
 + [Mining Massive Datasets - 511pages](http://www.mmds.org/#ver21)
++ [Foundations of Machine Learning - 505pages](https://cs.nyu.edu/~mohri/mlbook/)
 + [A Programmer's Guide to Data Mining - 395pages](http://guidetodatamining.com/)
 + [Probabilistic Programming & Bayesian Methods for Hackers - 217pages](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 + [Modeing with Data - 213pages](https://modelingwithdata.org/about_the_book.html)

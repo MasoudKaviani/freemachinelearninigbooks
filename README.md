@@ -14,6 +14,7 @@ The books have sorted by page number in DESC!
 + [Foundations of Machine Learning - 505pages](https://cs.nyu.edu/~mohri/mlbook/)
 + [A Programmer's Guide to Data Mining - 395pages](http://guidetodatamining.com/)
 + [INTRODUCTION TO MACHINE LEARNING - 234pages](https://alex.smola.org/drafts/)
++ [Gaussian Processes for Machine Learning - 266pages](https://gaussianprocess.org/gpml/chapters/)
 + [Probabilistic Programming & Bayesian Methods for Hackers - 217pages](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 + [Modeing with Data - 213pages](https://modelingwithdata.org/about_the_book.html)
 + [An Introduction to Data Science - 196pages](https://docs.google.com/file/d/0B6iefdnF22XQeVZDSkxjZ0Z5VUE/edit?pli=1)

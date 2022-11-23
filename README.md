@@ -6,6 +6,7 @@ The books have sorted by page number in DESC!
 
 ## SELECT * FROM books ORDER BY pages DESC
 + [Computer Vision: Algorithms and Applications -1232pages](http://szeliski.org/Book/)
++ [Deep Learning - 781pages](https://www.deeplearningbook.org/)
 + [Data Mining and Machine Learning: Fundamental Concepts and Algorithms - 766pages](https://dataminingbook.info/)
 + [The Elements of Statistical Learning - 764pages](https://web.stanford.edu/~hastie/ElemStatLearn//printings/ESLII_print12.pdf)
 + [Bayesian Reasoning and Machine Learning - 680pages](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/240415.pdf)

@@ -6,8 +6,9 @@ The books have sorted by page number in DESC!
 
 ## SELECT * FROM books ORDER BY pages DESC
 + [Computer Vision: Algorithms and Applications -1232pages](http://szeliski.org/Book/)
++ [Data Mining and Machine Learning: Fundamental Concepts and Algorithms - 766pages](https://dataminingbook.info/)
 + [The Elements of Statistical Learning - 764pages](https://web.stanford.edu/~hastie/ElemStatLearn//printings/ESLII_print12.pdf)
-+ [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/240415.pdf)
++ [Bayesian Reasoning and Machine Learning - 680pages](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/240415.pdf)
 + [Pattern Recognition and Machine Learning - 569pages](https://nlp.stanford.edu/IR-book/pdf/irbookprint.pdf)
 + [Data Mining and Analysis - 604pages](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=downloadman&upname=book-20160121.pdf)
 + [An Introduction to Information Retrieval - 546pages](https://jakevdp.github.io/PythonDataScienceHandbook/)

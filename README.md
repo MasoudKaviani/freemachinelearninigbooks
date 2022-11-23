@@ -4,7 +4,7 @@ Free Machine Learning, Data Mining, Deep Learning, Artificial Intelligence and B
 This is a repository to list free books in Machine Learning, Data Mining, Deep Learning, Artificial Intelligence fields. Feel free to add extra books by editing ReadMe file and make a PR
 The books have sorted by page number in DESC!
 
-## Free EBooks
+## SELECT * FROM books ORDER BY pages DESC
 + [Computer Vision: Algorithms and Applications -1232pages](http://szeliski.org/Book/)
 + [The Elements of Statistical Learning - 764pages](https://web.stanford.edu/~hastie/ElemStatLearn//printings/ESLII_print12.pdf)
 + [Pattern Recognition and Machine Learning - 569pages](https://nlp.stanford.edu/IR-book/pdf/irbookprint.pdf)
@@ -25,6 +25,7 @@ The books have sorted by page number in DESC!
 + [The Art of Data Science - 163pages](https://leanpub.com/artofdatascience)
 + [The Field Guid to Data Science - 110pages](https://www.researchgate.net/publication/258698880_The_Field_Guide_to_Data_Science)
 + [The Hundred-Page Machine Learning Book - 100pages](http://themlbook.com/wiki/doku.php)
++ [Algorithms for Reinforcement Learning - 98pages](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
 + [The Elements of Data Analytic Style - 98pages](http://programmingcomputervision.com/)
 + [Data Science for Business - 28pages](https://www.researchgate.net/publication/256438799_Data_Science_for_Business)
 + [Scikit-learn tutorial: statistical-learning for sientific data processing - Online](http://gael-varoquaux.info/scikit-learn-tutorial/)

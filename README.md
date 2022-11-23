@@ -24,7 +24,7 @@ The books have sorted by page number in DESC!
 + [The Art of Data Science - 163pages](https://leanpub.com/artofdatascience)
 + [The Field Guid to Data Science - 110pages](https://www.researchgate.net/publication/258698880_The_Field_Guide_to_Data_Science)
 + [The Hundred-Page Machine Learning Book - 100pages](http://themlbook.com/wiki/doku.php)
-+ [The Elements of Data Analytic Style](http://programmingcomputervision.com/)
++ [The Elements of Data Analytic Style - 98pages](http://programmingcomputervision.com/)
 + [Data Science for Business - 28pages](https://www.researchgate.net/publication/256438799_Data_Science_for_Business)
 + [Scikit-learn tutorial: statistical-learning for sientific data processing - Online](http://gael-varoquaux.info/scikit-learn-tutorial/)
 + [Natural Language Processing with Python - Online](https://www.nltk.org/book/)

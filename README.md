@@ -28,6 +28,7 @@ The books have sorted by page number in DESC!
 + [Algorithms for Reinforcement Learning - 98pages](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
 + [The Elements of Data Analytic Style - 98pages](http://programmingcomputervision.com/)
 + [Data Science for Business - 28pages](https://www.researchgate.net/publication/256438799_Data_Science_for_Business)
++ [Data Mining Algorithms In R - Online](https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R)
 + [Scikit-learn tutorial: statistical-learning for sientific data processing - Online](http://gael-varoquaux.info/scikit-learn-tutorial/)
 + [Natural Language Processing with Python - Online](https://www.nltk.org/book/)
 

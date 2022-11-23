@@ -21,6 +21,7 @@ The books have sorted by page number in DESC!
 + [Probabilistic Programming & Bayesian Methods for Hackers - 217pages](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 + [Modeing with Data - 213pages](https://modelingwithdata.org/about_the_book.html)
 + [An Introduction to Data Science - 196pages](https://docs.google.com/file/d/0B6iefdnF22XQeVZDSkxjZ0Z5VUE/edit?pli=1)
++ [A Course in Machine Learning - 193pages](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf)
 + [The Art of Data Science - 163pages](https://leanpub.com/artofdatascience)
 + [The Field Guid to Data Science - 110pages](https://www.researchgate.net/publication/258698880_The_Field_Guide_to_Data_Science)
 + [The Hundred-Page Machine Learning Book - 100pages](http://themlbook.com/wiki/doku.php)

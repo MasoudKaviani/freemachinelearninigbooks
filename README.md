@@ -19,6 +19,7 @@ The books have sorted by page number in DESC!
 + [Foundations of Machine Learning - 505pages](https://cs.nyu.edu/~mohri/mlbook/)
 + [A Programmer's Guide to Data Mining - 395pages](http://guidetodatamining.com/)
 + [Programming Computer Vision with Python - 300pages](http://programmingcomputervision.com/)
++ [Gaussian Processes for Machine Learning - 266pages](http://gaussianprocess.org/gpml/chapters/RW.pdf)
 + [Introduction to Machine Learning - 234pages](https://alex.smola.org/drafts/)
 + [Gaussian Processes for Machine Learning - 266pages](https://gaussianprocess.org/gpml/chapters/)
 + [Probabilistic Programming & Bayesian Methods for Hackers - 217pages](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)

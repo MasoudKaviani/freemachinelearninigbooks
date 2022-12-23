@@ -5,6 +5,7 @@ This is a repository to list free books in Machine Learning, Data Mining, Deep L
 The books have sorted by page number in DESC!
 
 ## SELECT * FROM books ORDER BY pages DESC
++ [Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning - 20190](https://www.cis.upenn.edu/~jean/gbooks/geomath.html)
 + [Computer Vision: Algorithms and Applications - 1232pages](http://szeliski.org/Book/)
 + [Neural Network Design (2nd Edition) - 1012](https://hagan.okstate.edu/nnd.html)
 + [Deep Learning - 781pages](https://www.deeplearningbook.org/)

@@ -1,4 +1,4 @@
-# Free Machine Learninig and Data Science Books
+# Free Machine Learning and Data Science Books
 Free Machine Learning, Data Mining, Deep Learning, Artificial Intelligence and Big Data Books
 
 This is a repository to list free books in Machine Learning, Data Mining, Deep Learning, Artificial Intelligence fields. Feel free to add extra books by editing ReadMe file and make a PR

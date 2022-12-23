@@ -16,6 +16,7 @@ The books have sorted by page number in DESC!
 + [Pattern Recognition and Machine Learning - 569pages](https://nlp.stanford.edu/IR-book/pdf/irbookprint.pdf)
 + [An Introduction to Information Retrieval - 546pages](https://jakevdp.github.io/PythonDataScienceHandbook/)
 + [Python Data Science Handbook - 546pages](https://jakevdp.github.io/PythonDataScienceHandbook/)
++ [Linear Algebra - 525pages](https://hefferon.net/linearalgebra/index.html)
 + [Planning Algorithms - 512pages](http://lavalle.pl/planning/)
 + [Mining Massive Datasets - 511pages](http://www.mmds.org/#ver21)
 + [Foundations of Machine Learning - 505pages](https://cs.nyu.edu/~mohri/mlbook/)

@@ -39,5 +39,5 @@ The books have sorted by page number in DESC!
 + [Scikit-learn tutorial: statistical-learning for sientific data processing - Online](http://gael-varoquaux.info/scikit-learn-tutorial/)
 + [Natural Language Processing with Python - Online](https://www.nltk.org/book/)
 + [Explanatory Model Analysis - Online](https://ema.drwhy.ai/)
-+ [https://course.fast.ai/Resources/book.html - Online](https://course.fast.ai/Resources/book.html)
++ [Practical Deep Learning for Coders - Online](https://course.fast.ai/Resources/book.html)
 + [Physics-based Deep Learning - Online](https://physicsbaseddeeplearning.org/intro.html)

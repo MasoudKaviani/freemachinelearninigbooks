@@ -38,3 +38,4 @@ The books have sorted by page number in DESC!
 + [Natural Language Processing with Python - Online](https://www.nltk.org/book/)
 + [Explanatory Model Analysis - Online](https://ema.drwhy.ai/)
 + [https://course.fast.ai/Resources/book.html - Online](https://course.fast.ai/Resources/book.html)
++ [Physics-based Deep Learning - Online](https://physicsbaseddeeplearning.org/intro.html)

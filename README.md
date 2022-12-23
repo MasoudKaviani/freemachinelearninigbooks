@@ -5,7 +5,8 @@ This is a repository to list free books in Machine Learning, Data Mining, Deep L
 The books have sorted by page number in DESC!
 
 ## SELECT * FROM books ORDER BY pages DESC
-+ [Computer Vision: Algorithms and Applications -1232pages](http://szeliski.org/Book/)
++ [Computer Vision: Algorithms and Applications - 1232pages](http://szeliski.org/Book/)
++ [Neural Network Design (2nd Edition) - 1012](https://hagan.okstate.edu/nnd.html)
 + [Deep Learning - 781pages](https://www.deeplearningbook.org/)
 + [Data Mining and Machine Learning: Fundamental Concepts and Algorithms - 766pages](https://dataminingbook.info/)
 + [The Elements of Statistical Learning - 764pages](https://web.stanford.edu/~hastie/ElemStatLearn//printings/ESLII_print12.pdf)

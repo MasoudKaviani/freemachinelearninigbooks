@@ -35,4 +35,4 @@ The books have sorted by page number in DESC!
 + [Data Mining Algorithms In R - Online](https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R)
 + [Scikit-learn tutorial: statistical-learning for sientific data processing - Online](http://gael-varoquaux.info/scikit-learn-tutorial/)
 + [Natural Language Processing with Python - Online](https://www.nltk.org/book/)
-
++ [Explanatory Model Analysis - Online](https://ema.drwhy.ai/)

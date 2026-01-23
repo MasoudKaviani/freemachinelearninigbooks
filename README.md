@@ -41,3 +41,4 @@ The books have sorted by page number in DESC!
 + [Explanatory Model Analysis - Online](https://ema.drwhy.ai/)
 + [Practical Deep Learning for Coders - Online](https://course.fast.ai/Resources/book.html)
 + [Physics-based Deep Learning - Online](https://physicsbaseddeeplearning.org/intro.html)
++ [The Math Behind Artificial Intelligence - Online](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book)

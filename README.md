@@ -1,4 +1,4 @@
-# Free Machine Learning & Data Science Books
+# Free AI, Machine Learning & Data Science Books
 
 A curated collection of free books covering machine learning, data science, deep learning, artificial intelligence, data mining, and related fields.  
 Books are sorted by page count in descending order; online resources without a fixed page count are listed at the end.

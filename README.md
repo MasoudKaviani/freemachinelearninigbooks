@@ -15,6 +15,7 @@ The books have sorted by page number in DESC!
 + [Bayesian Reasoning and Machine Learning - 680pages](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/240415.pdf)
 + [DeepLearning (bishopbook) - 656pages](https://www.bishopbook.com/)
 + [Data Mining and Analysis - 604pages](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=downloadman&upname=book-20160121.pdf)
++ [Computer Vision:  Models, Learning, and Inference - 600pages](https://udlbook.github.io/cvbook/)
 + [Pattern Recognition and Machine Learning - 569pages](https://nlp.stanford.edu/IR-book/pdf/irbookprint.pdf)
 + [An Introduction to Information Retrieval - 546pages](https://jakevdp.github.io/PythonDataScienceHandbook/)
 + [Python Data Science Handbook - 546pages](https://jakevdp.github.io/PythonDataScienceHandbook/)

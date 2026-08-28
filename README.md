@@ -3,11 +3,6 @@
 A curated collection of free books covering machine learning, data science, deep learning, artificial intelligence, data mining, and related fields.  
 Books are sorted by page count in descending order; online resources without a fixed page count are listed at the end.
 
-> **Note:** Page counts are approximate and may vary by edition.  
-> Feel free to contribute by adding new books or correcting existing entries. Please maintain the sort order and format.
-
----
-
 ## Books Sorted by Page Count (Descending)
 
 | # | Title | Pages | Link |
@@ -53,8 +48,6 @@ Books are sorted by page count in descending order; online resources without a f
 | 39 | The Matrix Cookbook | 72 | [View](https://math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) |
 | 40 | Data Science for Business (Summary/Notes) | 28 | [View](https://www.researchgate.net/publication/256438799_Data_Science_for_Business) |
 
----
-
 ## Online Books (No Fixed Page Count)
 
 | # | Title | Link |
@@ -70,8 +63,6 @@ Books are sorted by page count in descending order; online resources without a f
 | 49 | The Math Behind Artificial Intelligence | [View](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book) |
 | 50 | Artificial Intelligence: Foundations of Computational Agents (3rd Ed.) | [View](https://www.cs.ubc.ca/~poole/aibook/3e/html/ArtInt3e.html) |
 
----
-
 ## Contributing
 
 Contributions are welcome! To add a new book:
@@ -83,7 +74,6 @@ Contributions are welcome! To add a new book:
 
 Please avoid duplicates and verify that the resource is freely available. If you find a broken link or incorrect information, feel free to fix it.
 
----
 
 ## License
 
